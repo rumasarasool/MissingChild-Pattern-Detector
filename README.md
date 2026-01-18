@@ -252,10 +252,6 @@ The schema includes sample data for demonstration:
 - Advanced reporting
 - Mobile app integration
 
-## License
-
-This project is for educational/academic purposes.
-
 ## Support
 
 For issues or questions, please refer to the project documentation or contact the development team.
